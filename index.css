@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 255, 241);
+}
+
+h1 {
+    text-align: center;
+}
+
+.bg img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 1000px;
+}
+
+.nav-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.nav menu ul li {
+    display: inline-block;
+}
+
+.nav menu ul li a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+}
